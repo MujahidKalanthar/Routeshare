@@ -1,0 +1,6 @@
+{
+  "name": "RouteShare Pilot Simulator",
+  "description": "Team VoltEdge's interactive 12-month pilot simulator and unit economics dashboard for RouteShare ride-hailing parcel delivery at Renaissance 10.0, MNNIT Allahabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
